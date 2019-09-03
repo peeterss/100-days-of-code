@@ -5,10 +5,12 @@
 **today's progress:** started this repo from almost scratch.
 
 **thoughts:** i need of having to learn git.  trail and errored some tutorials prior ot this.  will learn.
+
 plan:
     * python, django, wagtail, django-rest-framework, yaml
     * tdd, git, graph database, ops
-    * frontend: css, webflow, react if needed, html
+    * frontend: css, webflow, react if needed, html, github markdown
+
 why: 
     1 company backend
     2 also frontend, eventually.
