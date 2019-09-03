@@ -4,7 +4,7 @@
 
 **today's progress:** started this repo from almost scratch.  didn't want to clone, did copy, paste.
 
-**thoughts:** i need of having to learn git.  trail and errored some tutorials prior ot this.  will learn.
+**thoughts:** in need of having to learn git.  trail and errored some tutorials prior ot this.  will learn.
 
 plan:
 * python, django, wagtail, django-rest-framework, yaml
