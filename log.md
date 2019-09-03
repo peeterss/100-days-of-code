@@ -1,9 +1,19 @@
-# 100 Days Of Code - Log
+# 100 days of code - Log
 
-### Day 000: 3 september 2019  commitment
+### day 000: 3 september 2019 _ commitment
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**today's progress:** started this repo from almost scratch.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**thoughts:** i need of having to learn git.  trail and errored some tutorials prior ot this.  will learn.
+ 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**link to work:** [this repo](https://github.com/peeterss/100-days-of-code)
+
+
+### day 001: 4 september 2019 _ setting up
+
+**today's progress:** 
+
+**thoughts:**  
+
+**link to work:** [this repo](https://github.com/peeterss/100-days-of-code)
