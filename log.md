@@ -20,8 +20,11 @@ why:
 
 ### day 001: 4 september 2019 _ setting up
 
-**today's progress:** 
+**today's progress:** fired up a new wagtail site 'asite' and tried to add git.
 
-**thoughts:**  
+**thoughts:**  github doesn't seem to guide creating a repo locally.  bad documentation.  could be me.
+will look into git tomorrow. seems necessary, needed.
 
-**link to work:** [this repo](https://github.com/peeterss/100-days-of-code)
+will start with git tomorrow, before adding the blog app (tutorial).
+
+**link to work:** [this repo](https://github.com/peeterss/asite)
