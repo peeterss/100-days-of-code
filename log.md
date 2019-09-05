@@ -28,3 +28,13 @@ will look into git tomorrow. seems necessary, needed.
 will start with git tomorrow, before adding the blog app (tutorial).
 
 **link to work:** [this repo](https://github.com/peeterss/asite)
+
+
+### day 002: 5 september 2019 _ continue
+
+**today's progress:** got blog rolling. mainly executing a tutorial and debugging.
+
+**thoughts:**  was fun.  tomorrow i will be fixing default ssh keys.  they still have a passphrase, not handy when commiting.  also looking into git. just 1h, chess afterward.
+
+
+**link to work:** [asite repo](https://github.com/peeterss/asite)
