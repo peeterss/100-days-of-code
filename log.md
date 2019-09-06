@@ -38,3 +38,13 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 
 **link to work:** [asite repo](https://github.com/peeterss/asite)
+
+
+### day 003: 6 september 2019 _ ssh keys + git branching, tagging
+
+**today's progress:** creating a ssh key without passphrase was a breeze as the config.  will be reading about git tagging and braching.
+
+**thoughts:**  today is just fixing ssh keys and reading.  tomorrow i'll be going further, longer.
+
+
+**link to work:** [this log](https://github.com/peeterss/100-days-of-code/blob/master/log.md)
