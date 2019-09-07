@@ -48,3 +48,12 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 
 **link to work:** [this log](https://github.com/peeterss/100-days-of-code/blob/master/log.md)
+
+
+### day 004: 7 september 2019 _ wagtail images
+
+**today's progress:** still doing a tutorial, am able to fix the self introduced bugs.  
+
+**thoughts:**  will do more than today, tomorrow.  a bit off now.
+
+**link to work:** [asite repo](https://github.com/peeterss/asite)
