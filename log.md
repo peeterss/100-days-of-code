@@ -57,3 +57,12 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **thoughts:**  will do more than today, tomorrow.  a bit off now.
 
 **link to work:** [asite repo](https://github.com/peeterss/asite)
+
+
+### day 005: 8 september 2019 _ finished tutorial
+
+**today's progress:** finished tutorial, will be taking it further and use for a site.  
+
+**thoughts:**  now reading up on django rest framework and django.  start a drf project monday or just django, depends.
+
+**link to work:** [asite repo](/peeterss/asite)
