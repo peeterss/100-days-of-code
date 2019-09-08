@@ -65,4 +65,4 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 **thoughts:**  now reading up on django rest framework and django.  start a drf project monday or just django, depends.
 
-**link to work:** [asite repo](/peeterss/asite)
+**link to work:** [asite repo](https://github.com/peeterss/asite)
