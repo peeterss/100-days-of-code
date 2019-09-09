@@ -68,7 +68,7 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **link to work:** [asite repo](https://github.com/peeterss/asite)
 
 
-### day 005: 8 september 2019 _ django rest framework, another tutorial
+### day 006: 9 september 2019 _ django rest framework, another tutorial
 
 **today's progress:** django rest framwork 1h.  
 
