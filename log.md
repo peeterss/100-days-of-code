@@ -66,3 +66,12 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **thoughts:**  now reading up on django rest framework and django.  start a drf project monday or just django, depends.
 
 **link to work:** [asite repo](https://github.com/peeterss/asite)
+
+
+### day 005: 8 september 2019 _ django rest framework, another tutorial
+
+**today's progress:** django rest framwork 1h.  
+
+**thoughts:**  works.  now going to watch the red devils qualifier against Scotland.  naming isn't that grand.
+
+**link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
