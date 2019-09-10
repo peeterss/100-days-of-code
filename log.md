@@ -75,3 +75,14 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **thoughts:**  works.  now going to watch the red devils qualifier against Scotland.  naming isn't that grand.
 
 **link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
+
+
+### day 007: 10 september 2019 _ django rest framework, tutorial part 2
+
+**today's progress:** again: django rest framwork 1h, on autopilot.  
+
+**thoughts:**  works.  will have to read up on stuff i am using.  just coding isn't going to cut it.
+
+**link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
+
+
