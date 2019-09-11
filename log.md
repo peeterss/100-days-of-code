@@ -86,3 +86,11 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
 
 
+### day 008: 11 september 2019 _ django rest framework, tutorial p3
+
+**today's progress:** again: django rest framwork.    
+
+**thoughts:**  will start with #django itself.  django 3 alpha is just out.  also try test driven development.
+
+**link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
+
