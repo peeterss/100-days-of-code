@@ -94,3 +94,12 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 **link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
 
+
+### day 008: 12 september 2019 _ django read up
+
+**today's progress:** started banging out with django 3. then realised directory structure and project setup coudl be better.  also have to zoom out and design what to create.  instead of just following tutorials.    
+
+**thoughts:**  tomorrow i will read up on project structure. to get tdd running and actually start writing tests first.  haven't add git to project, will probably restart it.
+
+**link to work:** [plan b repo](https://github.com/peeterss/planb)
+
