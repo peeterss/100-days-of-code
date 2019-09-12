@@ -95,7 +95,7 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **link to work:** [drf tutorial repo](https://github.com/peeterss/tutorial)
 
 
-### day 008: 12 september 2019 _ django read up
+### day 009: 12 september 2019 _ django read up
 
 **today's progress:** started banging out with django 3. then realised directory structure and project setup coudl be better.  also have to zoom out and design what to create.  instead of just following tutorials.    
 
