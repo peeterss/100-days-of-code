@@ -103,3 +103,11 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 **link to work:** [plan b repo](https://github.com/peeterss/planb)
 
+
+### day 010: 13 september 2019 _ django restart
+
+**today's progress:** repository is now actually online.  moved a directory. will read up on tdd.  django's test suite seem apt for now.    
+
+**thoughts:**  now to the chess tournament.  this weekend first read up on tests, django 3 and then impliment what i have designed.  design in between.
+
+**link to work:** [plan b repo](https://github.com/peeterss/planb)
