@@ -113,7 +113,7 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **link to work:** [plan b repo](https://github.com/peeterss/planb)
 
 
-### day 011: 13 september 2019 _ django 3
+### day 011: 14 september 2019 _ django 3
 
 **today's progress:** only designed what i'm going to code.  updated repo a bit.    
 
