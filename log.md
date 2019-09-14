@@ -108,6 +108,16 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 **today's progress:** repository is now actually online.  moved a directory. will read up on tdd.  django's test suite seem apt for now.    
 
-**thoughts:**  now to the chess tournament.  this weekend first read up on tests, django 3 and then impliment what i have designed.  design in between.
+**thoughts:**  now to the chess tournament.  this weekend first read up on tests, django 3 and then implement what i have designed.  design in between.
 
 **link to work:** [plan b repo](https://github.com/peeterss/planb)
+
+
+### day 011: 13 september 2019 _ django 3
+
+**today's progress:** only designed what i'm going to code.  updated repo a bit.    
+
+**thoughts:**  tdd is what i still have to look into.  slow day.
+
+**link to work:** [plan b repo](https://github.com/peeterss/planb)
+
