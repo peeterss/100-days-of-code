@@ -121,3 +121,11 @@ will start with git tomorrow, before adding the blog app (tutorial).
 
 **link to work:** [plan b repo](https://github.com/peeterss/planb)
 
+
+### day 012: 15 september 2019 _ documentation app
+
+**today's progress:** coded documentation app. not much code, but am progressing.  following a tutorial to understand the framework.  with own specs and specific model.  
+
+**thoughts:**  there's progress but it does not go that fast.  if i retain all i've learned..  it will get more complicated, i hope.  will be reading in spare time today.
+
+**link to work:** [plan b repo](https://github.com/peeterss/planb)
