@@ -129,3 +129,13 @@ will start with git tomorrow, before adding the blog app (tutorial).
 **thoughts:**  there's progress but it does not go that fast.  if i retain all i've learned..  it will get more complicated, i hope.  will be reading in spare time today.
 
 **link to work:** [plan b repo](https://github.com/peeterss/planb)
+
+
+### day 013: 16 september 2019 _ private repo
+
+**today's progress:** not wasting time. i hope.  started on private repo.  trying to get it right the first time.  
+
+**thoughts:**  not sure this is by the rules.  one shot learning.  will get there.  haven't missed a day (not under 1h).
+result will be there, this year.  theory
+
+**link to work:** [company projects](https://github.com/peeterss/projects)
