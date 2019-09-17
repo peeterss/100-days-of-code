@@ -139,3 +139,12 @@ will start with git tomorrow, before adding the blog app (tutorial).
 result will be there, this year.  theory
 
 **link to work:** [company projects](https://github.com/peeterss/projects)
+
+
+### day 014: 17 september 2019 _ restart private repo
+
+**today's progress:** restarted private repo, instead of just renaming.  made gist listing the steps.  
+
+**thoughts:**  it is probably against the rules.  mainly because it is counterproductive not being open.  but i am keeping part of what i'm doing private.  end result is what counts.  
+
+**link to work:** [company projects inventory](https://github.com/peeterss/inventory)
