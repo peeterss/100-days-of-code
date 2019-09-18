@@ -150,7 +150,7 @@ result will be there, this year.  theory
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
 
 
-### day 015: 17 september 2019 _ project_facts
+### day 015: 18 september 2019 _ project_facts
 
 **today's progress:** tried to abstract facts away from model so more (facts) could be added.  project_fact_type created, not actively used tough, yet.  
 
