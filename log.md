@@ -148,3 +148,12 @@ result will be there, this year.  theory
 **thoughts:**  it is probably against the rules.  mainly because it is counterproductive not being open.  but i am keeping part of what i'm doing private.  end result is what counts.  
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+
+
+### day 015: 17 september 2019 _ project_facts
+
+**today's progress:** tried to abstract facts away from model so more (facts) could be added.  project_fact_type created, not actively used tough, yet.  
+
+**thoughts:**  progress, will get there. has to be usable in the end..  
+
+**link to work:** [company projects inventory](https://github.com/peeterss/inventory)
