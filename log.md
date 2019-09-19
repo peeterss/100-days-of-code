@@ -150,19 +150,22 @@ result will be there, this year.  theory
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
 
 
-### day 015: 17 september 2019 _ project_facts
+### day 015: 18 september 2019 _ project_facts
 
 **today's progress:** tried to abstract facts away from model so more (facts) could be added.  project_fact_type created, not actively used tough, yet.  
 
 **thoughts:**  progress, will get there. has to be usable in the end..  
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+<<<<<<< HEAD
 
 
-### day 016: 18 september 2019 _ app factable (still named facts)
+### day 016: 19 september 2019 _ app factable (still named facts)
 
 **today's progress:** created app factable (django).  should be able to add project_facts of different content_types in a while.  
 
 **thoughts:**  django has a lot of this functionality built-in.  django-taggit was inspiration for implementing what i got up to now.  not much, but will get somewhere. as i've said.  today i also rediscoverd Masonite Framework.  knew of it's existence, seems just a fab for now.  newer tech, but not much development.
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+=======
+>>>>>>> c2acf661daccec0ed7b91b84953e48b6e6122464
