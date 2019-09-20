@@ -168,7 +168,7 @@ result will be there, this year.  theory
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
 
 
-### day 017: 20 september 2019 _ app factable (still named facts)
+### day 017: 20 september 2019 _ app factable refactor
 
 **today's progress:** don't have much time to spend.  late from work, chess soon.  
 
