@@ -166,3 +166,12 @@ result will be there, this year.  theory
 **thoughts:**  django has a lot of this functionality built-in.  django-taggit was inspiration for implementing what i got up to now.  not much, but will get somewhere. as i've said.  today i also rediscoverd Masonite Framework.  knew of it's existence, seems just a fab for now.  newer tech, but not much development.
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+
+
+### day 017: 20 september 2019 _ app factable (still named facts)
+
+**today's progress:** don't have much time to spend.  late from work, chess soon.  
+
+**thoughts:**  will make up for it tomorrow.  ide (visual studio code) is still open.
+
+**link to work:** [company projects inventory](https://github.com/peeterss/inventory)
