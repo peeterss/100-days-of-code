@@ -175,3 +175,12 @@ result will be there, this year.  theory
 **thoughts:**  will make up for it tomorrow.  ide (visual studio code) is still open.
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+
+
+### day 018: 21 september 2019 _ app factable
+
+**today's progress:** coded for some time.  
+
+**thoughts:**  will implement more tomorrow.
+
+**link to work:** [company projects inventory](https://github.com/peeterss/inventory)
