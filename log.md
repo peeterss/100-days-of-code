@@ -184,3 +184,12 @@ result will be there, this year.  theory
 **thoughts:**  will implement more tomorrow.
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+
+
+### day 019: 22 september 2019 _ app factable project model
+
+**today's progress:** abandoned factable app for now.  refined project model.  
+
+**thoughts:**  facts just implemented as Fields.  found an xlsx file defining the ones used on our current site.  abstraction is for later, future version of website.  tomorrow, continue.
+
+**link to work:** [company projects inventory](https://github.com/peeterss/inventory)
