@@ -193,3 +193,12 @@ result will be there, this year.  theory
 **thoughts:**  facts just implemented as Fields.  found an xlsx file defining the ones used on our current site.  abstraction is for later, future version of website.  tomorrow, continue.
 
 **link to work:** [company projects inventory](https://github.com/peeterss/inventory)
+
+
+### day 020: 23 september 2019 _ project model
+
+**today's progress:** discovered learnwagtail.com   
+
+**thoughts:**  found this searching for django rest framework and wagtail together.  should be able to combine the two.  and turn things headless if possible. not main priority.  just implementing it right, i hope.
+
+**link to work:** [company in website](https://github.com/peeterss/in)
