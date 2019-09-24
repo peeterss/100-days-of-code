@@ -204,7 +204,7 @@ result will be there, this year.  theory
 **link to work:** [company in website](https://github.com/peeterss/in)
 
 
-### day 020: 23 september 2019 _ wagtail + debug toolbar 
+### day 021: 24 september 2019 _ wagtail + debug toolbar 
 
 **today's progress:** learned wagtail, installed django debug toolbar.  
 
