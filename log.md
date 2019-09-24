@@ -202,3 +202,13 @@ result will be there, this year.  theory
 **thoughts:**  found this searching for django rest framework and wagtail together.  should be able to combine the two.  and turn things headless if possible. not main priority.  just implementing it right, i hope.
 
 **link to work:** [company in website](https://github.com/peeterss/in)
+
+
+### day 020: 23 september 2019 _ wagtail + debug toolbar 
+
+**today's progress:** learned wagtail, installed django debug toolbar.  
+
+**thoughts:**  spent 3 hours reading. not doing a tutorial.  will put is to use later, as before.
+
+**link to work:** [company in website](https://github.com/peeterss/in)
+
