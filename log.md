@@ -212,3 +212,11 @@ result will be there, this year.  theory
 
 **link to work:** [company in website](https://github.com/peeterss/in)
 
+
+### day 022: 25 september 2019 _ wagtail 
+
+**today's progress:** did some more wagtail.  
+
+**thoughts:**  ~1h, more tomorrow.
+
+**link to work:** [company in website](https://github.com/peeterss/in)
