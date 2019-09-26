@@ -220,3 +220,12 @@ result will be there, this year.  theory
 **thoughts:**  ~1h, more tomorrow.
 
 **link to work:** [company in website](https://github.com/peeterss/in)
+
+
+### day 023: 26 september 2019 _ demo site bakery 
+
+**today's progress:** reinstalled demo wagtail bakery site.  
+
+**thoughts:**  very educational.  had done this before the 100 days.  things seem to have been updated.  took also ~1h.  slow days.  will dive in more before the carnaval weekend in town starts.
+
+**link to work:** [wagtail bakery demo](https://github.com/peeterss/bakerydemo)
