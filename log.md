@@ -229,3 +229,21 @@ result will be there, this year.  theory
 **thoughts:**  very educational.  had done this before the 100 days.  things seem to have been updated.  took also ~1h.  slow days.  will dive in more before the carnaval weekend in town starts.
 
 **link to work:** [wagtail bakery demo](https://github.com/peeterss/bakerydemo)
+
+
+### day 024: 29 september 2019 _ design site 
+
+**today's progress:** spent time designing site  
+
+**thoughts:**  ok.
+
+**link to work:** [wagtail bakery demo](https://github.com/peeterss/bakerydemo)
+
+
+### day 025: 6 october 2019 _ projects app 
+
+**today's progress:** am learning. will also take this log offline.  
+
+**thoughts:**  and keep tracking progress privately.
+
+**link to work:** [wagtail bakery demo](https://github.com/peeterss/in)
